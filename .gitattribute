@@ -1,7 +1,0 @@
-# Visual Basic 6 source files
-*.frm eol=crlf
-*.bas eol=crlf
-*.cls eol=crlf
-*.ctl eol=crlf
-*.vbp eol=crlf
-*.vbw eol=crlf
